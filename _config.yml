@@ -1,7 +1,7 @@
 name: Steve Dimmick
 favicon: null
-layout_spectrum: 0.6358323723543435
-typography_spectrum: 0.5489565255120397
+layout_spectrum: 1
+typography_spectrum: 0.73928
 title: "Pethau dwi'n hoffi ar y we - Things I like on the web"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.14420049148611724
-  lightness: 0.038473199121654034
-  saturation: 0.9551511853933334
-  rhythmicContrast: 0.26859990134835243
+    - '#fefefe'
+    - '#645a50'
+    - '#241f1e'
+    - '#6d3600'
+    - '#91887c'
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
