@@ -16,8 +16,8 @@ keywords:
   - tune
   - ninjatune
 description: 'Define the future by creating your own. The collision of art and technology breeds the new visual experience through a powerfully inventive and collaborative mix. World, meet Leviathan.'
-datePublished: '2015-12-10T20:49:47.104Z'
-dateModified: '2015-12-10T20:49:33.464Z'
+datePublished: '2015-12-10T20:52:20.417Z'
+dateModified: '2015-12-10T20:49:47.104Z'
 author:
   - name: Leviathan
     url: 'http://vimeo.com/lvthn'
