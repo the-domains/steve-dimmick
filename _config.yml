@@ -1,0 +1,28 @@
+name: Steve Dimmick
+favicon: null
+layout_spectrum: 0.6358323723543435
+typography_spectrum: 0.5489565255120397
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14420049148611724
+  lightness: 0.038473199121654034
+  saturation: 0.9551511853933334
+  rhythmicContrast: 0.26859990134835243
+purpose: []
