@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Steve Dimmick]]></title>
-        <description><![CDATA[Steve Dimmick]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Pethau dwi'n hoffi ar y we - Things I like on the web]]></title>
+        <description><![CDATA[Pethau dwi'n hoffi ar y we - Things I like on the web]]></description>
+        <link>https://thegrid.ai/steve-dimmick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 20:49:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 20:52:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-dimmick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Helo byd... Hello world!]]></title>
             <description><![CDATA[<article><h1>Helo byd... Hello world!</h1><p>Define the future by creating your own. The collision of art and technology breeds the new visual experience through a powerfully inventive and collaborative mix.</p></article>]]></description>
-            <link>undefinedhelo-byd-hello-world/index.html</link>
+            <link>https://thegrid.ai/steve-dimmick/helo-byd-hello-world/index.html</link>
             <guid isPermaLink="false">b1d8f0e5-c1f9-47d5-b9cf-2ba18201a247</guid>
-            <pubDate>Thu, 10 Dec 2015 20:49:47 GMT</pubDate>
+            <pubDate>Thu, 10 Dec 2015 20:52:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
